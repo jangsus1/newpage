@@ -1,11 +1,17 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+# cv_pdf: example_pdf.pdf
+description: Redirecting to CV...
+# toc:
+#   sidebar: left
 ---
+
+
+<script>
+   // window.location = "https://resume.io/r/DvLKcdAKH"
+   window.location = 'https://jangsus1.github.io/CV.pdf'
+</script>
