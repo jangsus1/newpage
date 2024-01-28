@@ -12,6 +12,5 @@ description: Redirecting to CV...
 
 
 <script>
-   // window.location = "https://resume.io/r/DvLKcdAKH"
    window.location = 'https://jangsus1.github.io/CV.pdf'
 </script>

@@ -8,7 +8,7 @@ middle_name:
 last_name: Chang
 email: jangsus1@snu.ac.kr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A passionate researcher exploring between Computer and Human.
+  personal website of Minsuk Chang
 footer_text: >
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -101,7 +101,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Email is the best way to reach me.
+  <a href="mailto:jangsus1@snu.ac.kr">Email</a> is the best way to contact me.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -208,7 +208,6 @@ exclude:
   - _pages/profiles.md
   - _posts
   - _projects
-  - _news
   - bin
   - CONTRIBUTING.md
   - CUSTOMIZE.md
