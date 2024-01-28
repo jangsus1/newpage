@@ -286,8 +286,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Minsuk]
-  first_name: [Chang]
+  last_name: [Chang]
+  first_name: [Minsuk]
 
   style: apa
   locale: en
