@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A passionate researcher exploring between Computer and Human.
+subtitle: 
 
 profile:
   align: right
@@ -12,12 +12,13 @@ profile:
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am Minsuk :wave:, both a creative researcher and developer in Computer Science.<br>
+Hi! I am Minsuk (or Min) :wave:, an incoming a Ph.D. student of Computer Science at Georgia Institute of Technology.
 
-The incredible journey of AI, powered by the dedication of many, has ignited my passion in two key areas. I'm deeply interested in <u>Human-Centered AI</u>, where the goal is to imbue AI with the essence of human knowledge. Additionally, I'm captivated by the potential of <u> Information Visualization</u>, which becomes a powerful tool to enhance explain and understand AI.
+I am interested in the field of Human-Computer Interaction and Visualization, particularly in how humans perceive images and the biases involved. By studying this interdisciplinary field, I believe that combining social sciences with computing can greatly enhance our understanding of human behavior. Ultimately, my goal is to develop a thorough insight into human vision and contribute to designing effective visualizations for the public.
+
 <br>
-Ultimately, my goal is to foster a mutually beneficial relationship between humanity and AI, which facitiates each one's growth.
+I received my Bachelor's degree from Seoul National University, studying in Computer Science and Engineering Department. I have participated as an undergraduate research intern in SNU HCIL, under professor Jinwook Seo.
