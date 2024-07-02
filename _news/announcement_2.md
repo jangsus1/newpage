@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting my Ph.D. program in Fall 2024 at Georgia Tech, advised by Dr. Cindy Xiong Bearfield!
+Starting my Ph.D. program in Fall 2024 at Georgia Tech, advised by Dr. Cindy Xiong Bearfield.
